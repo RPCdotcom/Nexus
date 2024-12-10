@@ -60,7 +60,7 @@ curl https://cli.nexus.xyz/ | sh
 echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
 ```
 
-##### Prover İD : 
+##### Prover ID : 
 
 ![image](https://github.com/user-attachments/assets/c357d79c-3339-47f3-83f9-70f36c7df49f)
 
@@ -69,7 +69,7 @@ echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
 ![image](https://github.com/user-attachments/assets/10f6d4c5-a4c9-40bc-8f36-10466ec64140)
 ![image](https://github.com/user-attachments/assets/88b4e662-9241-4e7c-bd5d-611ac1524cdc)
 
-- Sonrasında komutu yapıştırın ; 
+##### Sonrasında komutu yapıştırın ; 
 
 
 ![image](https://github.com/user-attachments/assets/baf7030c-c33d-44c4-b331-1b367abbcfed)
@@ -79,3 +79,8 @@ echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
+
+![image](https://github.com/user-attachments/assets/a057b271-1c1c-4fcf-bd2f-756ea1e955e2)
+
+##### Artık doğru ID ile çalışmaya başlayacaktır. 
+##### CTRL A + D ile screenden çıkabilirsiniz - kendisi çalışmaya devam edecektir.
