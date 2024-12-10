@@ -37,3 +37,17 @@ curl https://cli.nexus.xyz/ | sh
 
 - İşlemlerin bitmesini bekliyoruz.
 
+
+![image](https://github.com/user-attachments/assets/1b2c8c1f-dbc9-4643-bdf2-bd0d337ea130)
+
+CTRL C ile durdurun.
+
+##### YOUR_PROVER_ID Kısmına kendi id'nizi yapıştırın.
+
+```bash
+echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
+```
+
+####### Prover İD : 
+
+![image](https://github.com/user-attachments/assets/937c9f53-bb8e-442b-bd24-5df747173e39)
