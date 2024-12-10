@@ -28,4 +28,7 @@ screen -S nexus
 curl https://cli.nexus.xyz/ | sh
 ```
 
-![image](https://github.com/user-attachments/assets/85593192-4330-4080-89fc-778f338be370)
+![image](https://github.com/user-attachments/assets/8806044d-71b8-424f-b964-04da5ade31d7)
+
+- Y yazıp enterliyoruz.
+
