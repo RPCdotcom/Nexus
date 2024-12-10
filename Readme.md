@@ -33,3 +33,7 @@ curl https://cli.nexus.xyz/ | sh
 
 - Y yazıp enterliyoruz.
 
+![image](https://github.com/user-attachments/assets/83bd5487-0db1-45d9-9540-9ca91f1d484e)
+
+- İşlemlerin bitmesini bekliyoruz.
+
