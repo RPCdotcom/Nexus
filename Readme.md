@@ -84,3 +84,7 @@ curl https://cli.nexus.xyz/ | sh
 
 ##### Artık doğru ID ile çalışmaya başlayacaktır. 
 ##### CTRL A + D ile screenden çıkabilirsiniz - kendisi çalışmaya devam edecektir.
+
+![image](https://github.com/user-attachments/assets/77cf3d41-e372-4af5-bf34-c376edcc7e48)
+
+#### Sitede CLI Olarak kazandığınız PTS'ler listelenecektir.
