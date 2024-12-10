@@ -70,6 +70,8 @@ echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
 ![image](https://github.com/user-attachments/assets/88b4e662-9241-4e7c-bd5d-611ac1524cdc)
 
 - Sonrasında komutu yapıştırın ; 
+
+
 ![image](https://github.com/user-attachments/assets/baf7030c-c33d-44c4-b331-1b367abbcfed)
 
 #### Yeniden Çalıştıralım  : 
