@@ -27,3 +27,5 @@ screen -S nexus
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
+
+![image](https://github.com/user-attachments/assets/85593192-4330-4080-89fc-778f338be370)
