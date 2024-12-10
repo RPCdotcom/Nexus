@@ -20,6 +20,7 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev pro
 ```bash
 sudo curl https://sh.rustup.rs -sSf | sh
 ```
+Soru Soracaktır normal indirme vb. 1 yazıp enterleyin.
 ```bash
 source $HOME/.cargo/env
 ```
