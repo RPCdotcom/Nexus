@@ -37,10 +37,10 @@ curl https://cli.nexus.xyz/ | sh
 
 - İşlemlerin bitmesini bekliyoruz.
 
+![image](https://github.com/user-attachments/assets/db365227-94d4-41a9-8274-72c9cd70a456)
 
-![image](https://github.com/user-attachments/assets/1b2c8c1f-dbc9-4643-bdf2-bd0d337ea130)
 
-CTRL C ile durdurun.
+### CTRL C ile durdurun.
 
 ##### YOUR_PROVER_ID Kısmına kendi id'nizi yapıştırın.
 
