@@ -42,12 +42,12 @@ curl https://cli.nexus.xyz/ | sh
 
 ### CTRL C ile durdurun.
 
-##### YOUR_PROVER_ID Kısmına kendi id'nizi yapıştırın.
+### YOUR_PROVER_ID Kısmına kendi id'nizi yapıştırın.
 
 ```bash
 echo "YOUR_PROVER_ID" > ~/.nexus/prover-id
 ```
 
-####### Prover İD : 
+##### Prover İD : 
 
 ![image](https://github.com/user-attachments/assets/937c9f53-bb8e-442b-bd24-5df747173e39)
