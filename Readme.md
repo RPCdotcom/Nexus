@@ -9,4 +9,21 @@
 - 6 RAM
 - Ubuntu 22.04
 
-       sudo apt update && sudo apt upgrade
+```bash
+sudo apt update && sudo apt upgrade
+```
+```bash
+sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev protobuf-compiler libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
+```
+
+#### Screen : 
+
+```bash
+screen -S nexus
+```
+
+#### Çalıştıralım  : 
+
+```bash
+curl https://cli.nexus.xyz/ | sh
+```
