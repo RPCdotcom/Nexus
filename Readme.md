@@ -8,3 +8,5 @@
 - 4 CPU 
 - 6 RAM
 - Ubuntu 22.04
+
+       sudo apt update && sudo apt upgrade
